@@ -79,4 +79,8 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
 
+    // Esto trae Scaffold, rememberScaffoldState(), Snackbar, Drawer, etc.
+    implementation("androidx.compose.material:material:1.5.1")
+
+
 }
