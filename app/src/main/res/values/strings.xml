@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">loterias</string>
+    <string name="loteria_label">Lotería</string>
+    <string name="adivina_label">Adivina</string>
+</resources>
